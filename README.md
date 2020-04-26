@@ -28,4 +28,11 @@ Learned from [realtime web app with gatsby & hasura ( learn with JASON youtube c
 
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
 
+1.  **Build for production and serve locally!**
+
+    ```shell
+    gatsby build
+    gatsby serve
+    ```
+
 <!-- AUTO-GENERATED-CONTENT:END -->
